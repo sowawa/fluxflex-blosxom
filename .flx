@@ -1,0 +1,3 @@
+[replace]
+public/config.cgi FLX_PROJECT_NAME PROJECT_NAME
+

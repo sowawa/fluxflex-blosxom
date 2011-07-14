@@ -17,14 +17,14 @@ $blog_language = "ja";
 # blosxom本体の設定 ====================================================
 
 # blosxomを設置したディレクトリ
-$basedir = "/home/blosxom/public_html";
+$basedir = "/home/FLX_USER_NAME/public_html";
 
 # エントリを置くディレクトリの絶対パス
 $datadir = "$basedir/entries";
 
 # blosxomを設置したURL
 # 空欄にすると自動的に取得します
-$url = "http://blosxom.fluxflex.com/";
+$url = "http://FLX_USER_NAME.fluxflex.com/";
 
 # エントリを探すためにエントリを置くディレクトリより辿る階層数
 # 0: 全て辿る
